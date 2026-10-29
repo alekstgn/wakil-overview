@@ -75,8 +75,7 @@ Python · FastAPI · Supabase (Postgres + RLS) · Telegram Bot API · Claude (to
 
 ## Контакты
 
-- E-mail: alexey.kz.cloud@gmail.com
-- Telegram: указан в заявке Зерокодера / напишите в чат бота
+- Telegram: @aleksey_pershin
 
 ---
 
